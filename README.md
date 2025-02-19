@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Arpit Singla and I'm a 2nd Year CSE student at Chitkara University, Punjab.</p>
 
 ###
 
@@ -10,11 +10,28 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since I started coding<br>📚 I'm currently learning DSA in Java<br>🎯 Goals: To become a proficient software developer<br>🎲 Fun fact: Debugging is just solving the bugs I created myself</p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+###
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github" alt="Tech Stack"/>
+</p>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<p align="left">
+  <a href="https://linktr.ee/arpit_singla076" target="_blank">🌐 Linktree</a>
+</p>
+
 
 ###
 
