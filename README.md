@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arpit Singla and I'm a 2nd Year CSE student at Chitkara University, Punjab.</p>
+<p align="left">My name is Arpit Singla and I'm a 3rd Year CSE student at Chitkara University, Punjab.</p>
 
 ###
 
